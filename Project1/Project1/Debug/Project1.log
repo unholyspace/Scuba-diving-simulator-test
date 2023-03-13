@@ -1,4 +1,0 @@
-﻿  Source.cpp
-C:\Users\Lenovo\source\repos\cargame\OLCTest\Source.cpp(376,49): warning C4244: 'bağımsız değişken': 'double' - 'int32_t' dönüşümü; veri kaybı olabilir
-C:\Users\Lenovo\source\repos\cargame\OLCTest\Source.cpp(376,20): warning C4244: 'bağımsız değişken': 'double' - 'int32_t' dönüşümü; veri kaybı olabilir
-  Project1.vcxproj -> C:\Users\Lenovo\source\repos\Project1\Debug\Project1.exe
