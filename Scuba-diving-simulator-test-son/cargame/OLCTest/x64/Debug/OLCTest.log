@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Ara dizin (x64\Debug\) başka bir projeden (OLCTest.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  Source.cpp
+C:\Users\DELL\source\repos\Scuba-diving-simulator-test-son\cargame\OLCTest\Source.cpp(306,23): warning C4244: 'başlatılıyor': '_Rep' - 'double' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\DELL\source\repos\Scuba-diving-simulator-test-son\cargame\OLCTest\Source.cpp(464,49): warning C4244: 'bağımsız değişken': 'double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\DELL\source\repos\Scuba-diving-simulator-test-son\cargame\OLCTest\Source.cpp(464,20): warning C4244: 'bağımsız değişken': 'double' - 'int32_t' dönüşümü; veri kaybı olabilir
+  OLCTest.vcxproj -> C:\Users\DELL\source\repos\Scuba-diving-simulator-test-son\cargame\x64\Debug\cargame.exe
